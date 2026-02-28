@@ -80,7 +80,7 @@ This directly influenced capacitor and rectifier selection in the PCB design.
 
 ## 4. Zener Regulator Under Ripple Conditions
 
-📷 *output.*
+![📷 *output.*](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_01_Rectification_and_Power/LTspice/bridge%20rectifier%20with%20cap%20filter.png)
 
 This simulation was used to understand how ripple affects regulation.
 
