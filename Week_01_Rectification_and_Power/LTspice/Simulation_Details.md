@@ -30,7 +30,7 @@ This clarified:
 
 ## 2. Bridge Rectifier
 
-📷 *Insert bridge rectifier waveform screenshot here.*
+![📷 *Insert bridge rectifier waveform screenshot here.*](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_01_Rectification_and_Power/LTspice/bridge%20rectifier.png)
 
 This simulation compared bridge rectification against the centre-tap configuration.
 
