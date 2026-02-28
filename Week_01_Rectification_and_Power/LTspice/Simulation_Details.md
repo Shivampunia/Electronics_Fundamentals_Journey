@@ -7,7 +7,7 @@ Each simulation focused on observing waveform behaviour, voltage relationships, 
 
 ## 1. Centre-Tap Full-Wave Rectifier
 
-!(Week_01_Rectification_and_Power/LTspice/full wave center tape rectifier.png)
+![(Week_01_Rectification_and_Power/LTspice/full wave center tape rectifier.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_01_Rectification_and_Power/LTspice/full%20wave%20center%20tape%20rectifier.png)
 
 This simulation was used to understand how full-wave rectification operates using a centre-tapped transformer.
 
