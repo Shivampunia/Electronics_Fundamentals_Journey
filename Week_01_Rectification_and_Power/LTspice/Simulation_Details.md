@@ -30,7 +30,7 @@ This clarified:
 
 ## 2. Bridge Rectifier
 
-![📷 *Insert bridge rectifier waveform screenshot here.*](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_01_Rectification_and_Power/LTspice/bridge%20rectifier.png)
+![📷 *Output.*](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_01_Rectification_and_Power/LTspice/bridge%20rectifier.png)
 
 This simulation compared bridge rectification against the centre-tap configuration.
 
@@ -56,8 +56,7 @@ This made it clear why bridge rectifiers are more common in practical designs:
 
 ## 3. Bridge Rectifier with Capacitor Input Filter
 
-📷 *Insert filtered output waveform here.*  
-📷 *Insert diode current waveform showing charging pulses here.*
+![📷 *output.*](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_01_Rectification_and_Power/LTspice/bridge%20rectifier%20with%20cap%20filter.png)
 
 This simulation introduced bulk capacitance and load current.
 
@@ -81,7 +80,7 @@ This directly influenced capacitor and rectifier selection in the PCB design.
 
 ## 4. Zener Regulator Under Ripple Conditions
 
-📷 *Insert Zener regulation waveform under ripple here.*
+📷 *output.*
 
 This simulation was used to understand how ripple affects regulation.
 
@@ -102,7 +101,7 @@ This clarified:
 
 ## 5. Zener with Additional Smoothing Capacitor
 
-📷 *Insert Zener + capacitor waveform here.*
+📷 *zenerwithcap.*
 
 An additional capacitor was introduced to observe ripple reduction.
 
