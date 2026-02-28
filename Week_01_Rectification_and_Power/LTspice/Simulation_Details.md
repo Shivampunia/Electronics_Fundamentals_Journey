@@ -101,7 +101,7 @@ This clarified:
 
 ## 5. Zener with Additional Smoothing Capacitor
 
-📷 *zenerwithcap.*
+![📷 *zenerwithcap.*](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_01_Rectification_and_Power/LTspice/zener%20regulation%20under%20cap%20filter%20.png)
 
 An additional capacitor was introduced to observe ripple reduction.
 
