@@ -7,7 +7,7 @@ Each simulation focused on observing waveform behaviour, voltage relationships, 
 
 ## 1. Centre-Tap Full-Wave Rectifier
 
-📷 *Insert centre-tap rectifier waveform screenshot here.*
+![Centre-tap full-wave rectifier output]()
 
 This simulation was used to understand how full-wave rectification operates using a centre-tapped transformer.
 
