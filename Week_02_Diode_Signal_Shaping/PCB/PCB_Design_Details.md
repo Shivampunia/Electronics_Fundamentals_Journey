@@ -23,9 +23,9 @@ Signal paths are intentionally current-limited to ensure safe laboratory experim
 
 ## 2. PCB Layout
 
-![Week02_PCB_Layout](Images/week02_pcb_layout.png)
+![[Week02_PCB_Layout](Images/week02_pcb_layout.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_02_Diode_Signal_Shaping/PCB/PCB2_PCB.png)
 
-The PCB is organised into clearly defined functional blocks to reflect the schematic structure. Each signal-conditioning stage (clipper, clamper, Zener limiter, photodiode and LED blocks) is physically separated to minimise interference and allow independent testing.
+The PCB(29.95 mm ⛌ 40.65 mm) is organised into clearly defined functional blocks to reflect the schematic structure. Each signal-conditioning stage (clipper, clamper, Zener limiter, photodiode and LED blocks) is physically separated to minimise interference and allow independent testing.
 
 High-impedance analogue nodes are kept short and isolated from the charge pump section to reduce switching noise coupling. The TC7662A negative rail generator is placed away from sensitive signal paths, with decoupling capacitors positioned close to its pins.
 
