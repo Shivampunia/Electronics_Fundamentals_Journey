@@ -3,7 +3,7 @@ Diode & Signal Applications Board
 
 ## 1. Design Objective
 
-![Week02_Schematic](Images/week02_schematic.png)
+![[Week02_Schematic](Images/week02_schematic.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_02_Diode_Signal_Shaping/PCB/PCB2%20sch.png)
 
 This board was designed to implement and experimentally validate the diode-based signal conditioning circuits studied during Week 02.
 
