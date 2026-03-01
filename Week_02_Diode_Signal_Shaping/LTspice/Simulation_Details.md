@@ -35,7 +35,7 @@ This simulation clarified the exponential nature of diode conduction and reinfor
 
 ## 3. Biased Clipper
 
-![Biased Clipper](biased_clipper.png)
+![[Biased Clipper](biased_clipper.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_02_Diode_Signal_Shaping/LTspice/biased%20clipper.png)
 
 ### Observations
 
