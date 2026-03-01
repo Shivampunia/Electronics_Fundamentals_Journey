@@ -49,7 +49,7 @@ This showed how clipping levels can be controlled precisely using a reference vo
 
 ## 4. Combination Clipper (Window Limiter)
 
-![Combination Clipper](combination_clipper.png)
+![[Combination Clipper](combination_clipper.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_02_Diode_Signal_Shaping/LTspice/Combination%20clipper.png)
 
 ### Observations
 
