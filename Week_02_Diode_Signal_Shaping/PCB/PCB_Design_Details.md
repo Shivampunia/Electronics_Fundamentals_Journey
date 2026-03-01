@@ -47,7 +47,7 @@ The negative rail is used only for biased and combination clipping configuration
 
 The charge pump section is placed away from high-impedance analogue nodes to reduce switching noise coupling.
 
-datasheet of charge pump in : !(charge_pump.pdf)
+datasheet of charge pump in : ![(charge_pump.pdf)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_02_Diode_Signal_Shaping/PCB/Charge%20Pump.pdf)
 
 ## 3. Clipper Block
 
