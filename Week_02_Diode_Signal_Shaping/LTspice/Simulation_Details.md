@@ -78,7 +78,7 @@ This clarified the difference between clipping (amplitude limiting) and clamping
 
 ## 6. Zener Diode V–I Characteristic (1N750)
 
-![Zener V-I Curve](zener_curve.png)
+![[Zener V-I Curve](zener_curve.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_02_Diode_Signal_Shaping/LTspice/Zener%20diode%20curve.png)
 
 ### Observations
 
