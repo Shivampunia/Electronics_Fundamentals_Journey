@@ -7,7 +7,7 @@ Each circuit was analysed to observe conduction regions, threshold behaviour, an
 
 ## 1. Diode V–I Characteristic (1N4148)
 
-![Diode V-I Curve](diode_iv_curve.png)
+![[Diode V-I Curve](diode_iv_curve.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_02_Diode_Signal_Shaping/LTspice/diode%20I-V%20curve.png)
 
 ### Observations
 
