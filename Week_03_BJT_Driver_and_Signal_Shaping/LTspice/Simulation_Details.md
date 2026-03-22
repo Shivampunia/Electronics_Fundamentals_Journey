@@ -7,7 +7,7 @@ Each circuit was analysed to study biasing behaviour, operating regions, gain ch
 
 ## 1. BJT Output Characteristics (Common Emitter)
 
-![BJT Output Characteristics](bjt_output_characteristics.png)
+![[BJT Output Characteristics](bjt_output_characteristics.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_03_BJT_Driver_and_Signal_Shaping/LTspice/BJT%20Output%20Characteristics.png)
 
 ### Observations
 
