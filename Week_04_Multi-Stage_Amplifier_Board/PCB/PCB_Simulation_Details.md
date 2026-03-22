@@ -18,19 +18,19 @@ Demonstrates conversion of a small signal into usable output power.
 
 ## 4. Schematic
 
-![Schematic](schematic.png)
+![[Schematic](schematic.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_04_Multi-Stage_Amplifier_Board/PCB/PCB4_sch.png)
 
 ## 5. PCB Layout
 
-![PCB Layout](pcb_layout.png)
+![[PCB Layout](pcb_layout.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_04_Multi-Stage_Amplifier_Board/PCB/PCB4.png)
 
 ## 6. 3D View
 
-![PCB 3D](pcb_3d.png)
+![[PCB 3D](pcb_3d.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_04_Multi-Stage_Amplifier_Board/PCB/PCB4_3D.png)
 
 ## 7. LTspice Simulation (Full Chain)
 
-![LTspice Full System](ltspice_simulation.png)
+![[LTspice Full System](ltspice_simulation.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_04_Multi-Stage_Amplifier_Board/PCB/PCB4_sim.png)
 
 - Green → Input signal  
 - Red → Final output  
