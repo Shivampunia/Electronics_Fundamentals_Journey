@@ -5,7 +5,7 @@ The simulations this week were focused on understanding both individual amplifie
 
 ## 1. Swamped CE Amplifier
 
-![Swamped Amplifier](swamped_amp.png)
+![[Swamped Amplifier](swamped_amp.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_04_Multi-Stage_Amplifier_Board/LTspice/Swamped%20amplifier%20.png)
 
 ### Observations
 
@@ -20,7 +20,7 @@ The simulations this week were focused on understanding both individual amplifie
 
 ## 2. Emitter Follower (Common Collector)
 
-![Emitter Follower](cc_amp.png)
+![[Emitter Follower](cc_amp.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_04_Multi-Stage_Amplifier_Board/LTspice/CC(Emitter%20follower)%20amp.png)
 
 ### Observations
 
@@ -35,7 +35,7 @@ The simulations this week were focused on understanding both individual amplifie
 
 ## 3. Common Base Amplifier
 
-![Common Base](cb_amp.png)
+![[Common Base](cb_amp.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_04_Multi-Stage_Amplifier_Board/LTspice/CB(common%20base%20)%20amp.png)
 
 ### Observations
 
@@ -50,7 +50,7 @@ The simulations this week were focused on understanding both individual amplifie
 
 ## 4. Cascaded CE + CC Amplifier
 
-![Cascading CE CC](ce_cc_cascade.png)
+![[Cascading CE CC](ce_cc_cascade.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_04_Multi-Stage_Amplifier_Board/LTspice/Cascading%20CE%20and%20CC%20.png)
 
 ### Observations
 
@@ -65,7 +65,7 @@ The simulations this week were focused on understanding both individual amplifie
 
 ## 5. Darlington Configuration
 
-![Darlington](darlington.png)
+![[Darlington](darlington.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_04_Multi-Stage_Amplifier_Board/LTspice/Darlington%20Connection.png)
 
 ### Observations
 
@@ -80,7 +80,7 @@ The simulations this week were focused on understanding both individual amplifie
 
 ## 6. Zener Follower (Voltage Regulation)
 
-![Zener Follower](zener_follower.png)
+![[Zener Follower](zener_follower.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_04_Multi-Stage_Amplifier_Board/LTspice/Zener%20Follower.png)
 
 ### Observations
 
