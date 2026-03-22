@@ -3,7 +3,7 @@ BJT Driver & Small Signal Amplifier Board
 
 ## 1. Design Objective
 
-![Week03_Schematic](Images/week03_schematic.png)
+![[Week03_Schematic](Images/week03_schematic.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_03_BJT_Driver_and_Signal_Shaping/PCB/PCB3_sch.png)
 
 This board was designed to move from signal-level circuits to practical transistor-based control and amplification.
 
@@ -17,7 +17,7 @@ All blocks operate from a +12 V supply and are structured for testing and unders
 
 ## 2. PCB Layout
 
-![Week03_PCB_Layout](Images/week03_pcb_layout.png)
+![[Week03_PCB_Layout](Images/week03_pcb_layout.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_03_BJT_Driver_and_Signal_Shaping/PCB/PCB3.png)
 
 The PCB is organised into three main functional blocks with clear separation:
 
