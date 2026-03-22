@@ -52,7 +52,7 @@ This simulation reinforced how biasing components set the operating point and co
 
 ## 4. Base Biased Amplifier (With Coupling Capacitor)
 
-![Base Biased Amplifier](base_biased_amp.png)
+![[Base Biased Amplifier](base_biased_amp.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_03_BJT_Driver_and_Signal_Shaping/LTspice/base%20biased%20amp%20.png)
 
 ### Observations
 
