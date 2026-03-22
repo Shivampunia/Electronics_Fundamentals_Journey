@@ -22,7 +22,7 @@ This simulation clarified how a transistor transitions between saturation and ac
 
 ## 2. Transistor as a Switch
 
-![Transistor as Switch](transistor_switch.png)
+![[Transistor as Switch](transistor_switch.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_03_BJT_Driver_and_Signal_Shaping/LTspice/Transistor%20as%20a%20awitch%20.png)
 
 ### Observations
 
@@ -37,7 +37,7 @@ This demonstrated how a transistor behaves as a digital switch, operating betwee
 
 ## 3. Voltage Divider Bias (VDB) Load Line
 
-![VDB Load Line](vdb_load_line.png)
+![[VDB Load Line](vdb_load_line.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_03_BJT_Driver_and_Signal_Shaping/LTspice/VDB%20load%20line%20.png)
 
 ### Observations
 
@@ -67,7 +67,7 @@ This showed how coupling capacitors isolate DC levels while allowing AC amplific
 
 ## 5. VDB Amplifier (Without Bypass Capacitor)
 
-![VDB Amplifier Without Bypass](vdb_no_bypass.png)
+![[VDB Amplifier Without Bypass](vdb_no_bypass.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_03_BJT_Driver_and_Signal_Shaping/LTspice/VDB%20(without%20bypass%20cap)%20.png)
 
 ### Observations
 
@@ -82,7 +82,7 @@ This demonstrated how emitter degeneration improves stability at the cost of gai
 
 ## 6. VDB Amplifier (With Bypass Capacitor)
 
-![VDB Amplifier With Bypass](vdb_with_bypass.png)
+![[VDB Amplifier With Bypass](vdb_with_bypass.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_03_BJT_Driver_and_Signal_Shaping/LTspice/VDB%20(%20with%20bypass%20cap%20)%20.png)
 
 ### Observations
 
@@ -97,7 +97,7 @@ This showed how bypass capacitors increase AC gain while maintaining DC stabilit
 
 ## 7. Multistage Amplifier
 
-![Multistage Amplifier](multistage_amp.png)
+![[Multistage Amplifier](multistage_amp.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_03_BJT_Driver_and_Signal_Shaping/LTspice/Multistage%20amplifier%20.png)
 
 ### Observations
 
