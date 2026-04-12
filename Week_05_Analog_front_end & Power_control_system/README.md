@@ -51,7 +51,7 @@ This represents a transition from individual circuit blocks to **integrated anal
 
 ## Repository Structure
 
-- `/LTspice` → device-level simulations and analysis  
+- [[simuation detial.md](Week_05_Analog_front_end & Power_control_system/LTspice/Simulation details.md)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/LTspice/Simulation%20details.md) → device-level simulations and analysis  
 - `/PCB` → schematic, layout, and hardware implementation  
 
 ---
