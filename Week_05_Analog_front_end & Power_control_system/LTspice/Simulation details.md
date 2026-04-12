@@ -11,7 +11,7 @@ The simulations directly support the design and implementation of the **Analog F
 
 ### Transfer Characteristics (Id vs Vgs)
 
-![JFET Transfer](jfet_transfer.png)
+![[JFET Transfer](jfet_transfer.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/LTspice/jfet%20transconductance%20curve.png)
 
 - Shows relationship between gate voltage and drain current  
 - Confirms cutoff and active region behaviour  
@@ -21,7 +21,7 @@ The simulations directly support the design and implementation of the **Analog F
 
 ### Output Characteristics (Id vs Vds)
 
-![JFET Output](jfet_output.png)
+![[JFET Output](jfet_output.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/LTspice/Jfet(id%20vs%20Vds).png)
 
 - Demonstrates ohmic and saturation regions  
 - Validates constant current behaviour in saturation  
@@ -32,7 +32,7 @@ The simulations directly support the design and implementation of the **Analog F
 
 ### Self-Bias Configuration
 
-![JFET Bias](jfet_self_bias.png)
+![[JFET Bias](jfet_self_bias.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/LTspice/jfet%20self%20bias.png)
 
 - Establishes stable operating point without external gate supply  
 - Verified:
@@ -48,7 +48,7 @@ The simulations directly support the design and implementation of the **Analog F
 
 ### Common Source Amplifier
 
-![JFET CS](jfet_cs.png)
+![[JFET CS](jfet_cs.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/LTspice/jfet%20cs%20amplifer.png)
 
 - Provides voltage amplification  
 - Observations:
@@ -59,7 +59,7 @@ The simulations directly support the design and implementation of the **Analog F
 
 ### Cascaded Amplifier (CS + Source Follower)
 
-![JFET Cascade](jfet_cascade.png)
+![[JFET Cascade](jfet_cascade.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/LTspice/cascading%20cs%20and%20source%20follower%20amp.png)
 
 - Stage 1: Voltage amplification (CS)  
 - Stage 2: Buffering (Source follower)  
@@ -73,7 +73,7 @@ The simulations directly support the design and implementation of the **Analog F
 
 ### Id vs Vgs
 
-![MOSFET VGS](mosfet_vgs.png)
+![[MOSFET VGS](mosfet_vgs.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/LTspice/dmosfet%20(%20id%20vs%20vgs%20)%20.png)
 
 - Shows threshold voltage behaviour  
 - Identifies cutoff and active region  
@@ -82,7 +82,7 @@ The simulations directly support the design and implementation of the **Analog F
 
 ### Id vs Vds
 
-![MOSFET VDS](mosfet_vds.png)
+![[MOSFET VDS](mosfet_vds.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/LTspice/dmosfet%20(%20id%20vs%20vds).png)
 
 - Confirms linear and saturation regions  
 - Used for switching vs amplification decisions  
@@ -91,7 +91,7 @@ The simulations directly support the design and implementation of the **Analog F
 
 ## 5. MOSFET Amplifier
 
-![MOSFET Amplifier](mosfet_amp.png)
+![[MOSFET Amplifier](mosfet_amp.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/LTspice/dmosfet%20amplifer%20.png)
 
 - Common source MOSFET amplifier  
 - Similar behaviour to JFET CS stage  
@@ -101,7 +101,7 @@ The simulations directly support the design and implementation of the **Analog F
 
 ## 6. MOSFET as Switch (555 Timer Control)
 
-![MOSFET Switch](mosfet_switch.png)
+![[MOSFET Switch](mosfet_switch.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/LTspice/mosfet%20as%20switch.png)
 
 - MOSFET driven by 555 timer  
 - Demonstrates digital switching behaviour  
