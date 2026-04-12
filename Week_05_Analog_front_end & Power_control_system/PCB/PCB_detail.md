@@ -13,18 +13,18 @@ The design follows a structured engineering workflow:
 ---
 ## 3D View
 
-![3D PCB](pcb_3d.png)
+![[3D PCB](pcb_3d.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/PCB/PCB5_3d.png)
 
 ---
 ## PCB Layout
 | Dimensions            |  PCB layout  |
 | :-------------------------: | :-------------------------: |
-| ![Upside Down Labs BioAmp EXG Pill dimensions](graphics/board/v1.0/BioAmp-EXG-Pill-v1.0-dimensions.png)  | ![Upside Down Labs BioAmp EXG Pill schematic](graphics/docs/BioAmp-EXG-Pill-v1.0b-schematic.png) |
+| ![[Upside Down Labs BioAmp EXG Pill dimensions](graphics/board/v1.0/BioAmp-EXG-Pill-v1.0-dimensions.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/PCB/PCB5_dimensions.png)  | ![[Upside Down Labs BioAmp EXG Pill schematic](graphics/docs/BioAmp-EXG-Pill-v1.0b-schematic.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/PCB/PCB5_pcb.png) |
 
 ---
 ## Schematic
 
-![Schematic](pcb_schematic.png)
+![[Schematic](pcb_schematic.png)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/PCB/PCB5_sch.png)
 
 ---
 # System Architecture
