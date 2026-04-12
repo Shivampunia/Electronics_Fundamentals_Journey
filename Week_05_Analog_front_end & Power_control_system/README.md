@@ -16,7 +16,7 @@ The objective was to move beyond isolated concepts and build an understanding of
 ### PCB – Analog Front-End & Power Control Board
 | 3D View            |  PCB Layout  |
 | :-------------------------: | :-------------------------: |
-| ![Upside Down Labs BioAmp EXG Pill dimensions](graphics/board/v1.0/BioAmp-EXG-Pill-v1.0-dimensions.png)  | ![Upside Down Labs BioAmp EXG Pill schematic](graphics/docs/BioAmp-EXG-Pill-v1.0b-schematic.png) |
+| ![3dview](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/PCB/PCB5_3d.png)  | ![PCB Lyout](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/PCB/PCB5_pcb.png) |
 
 ## Practical Implementation
 
@@ -51,7 +51,7 @@ This represents a transition from individual circuit blocks to **integrated anal
 
 ## Repository Structure
 
-- [[simuation detial.md](Week_05_Analog_front_end & Power_control_system/LTspice/Simulation details.md)](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/LTspice/Simulation%20details.md) → device-level simulations and analysis  
-- `/PCB` → schematic, layout, and hardware implementation  
+- [simuation](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/LTspice/Simulation%20details.md) → device-level simulations and analysis  
+- [PCB](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_05_Analog_front_end%20%26%20Power_control_system/PCB/PCB_detail.md) → schematic, layout, and hardware implementation  
 
 ---
