@@ -8,7 +8,12 @@ The goal was to design a system that can:
 
 - Amplify a weak signal  
 - Stabilise it across stages  
-- Deliver usable power to a load  
+- Deliver usable power to a load
+
+### PCB – Multi stage amplifier and power control system
+| 3D View            |  PCB Layout  |
+| :-------------------------: | :-------------------------: |
+| ![3dview](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_04_Multi-Stage_Amplifier_Board/PCB/PCB4_3D.png)| ![PCB Lyout](https://github.com/Shivampunia/Electronics_Fundamentals_Journey/blob/main/Week_04_Multi-Stage_Amplifier_Board/PCB/PCB4.png)|
 
 ## System Overview
 
